@@ -37,10 +37,9 @@ If you are developing a production application, we recommend using TypeScript wi
 - Vite
 - Tailwind CSS
 - DaisyUI
-- React Toastify
+- React Toastify (NPM Package)
 - JavaScript (ES6+)
 - JSON (for product data)
-- React-Toastify (NPM Package)
 
 ----------------------------------------------------------------------------------------------------
 
